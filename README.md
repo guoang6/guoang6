@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guoang
+- I’m @guoang
 - 👀 I’m interested in Vue Ts React React Native
 ## 联系方式
 - QQ:384019118
