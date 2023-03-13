@@ -1,5 +1,5 @@
 - I’m @guoang
-- 👀 I’m interested in Vue Ts React React Native
+- 技术栈 Vue Ts React React Native java node.js
 ## 联系方式
 - QQ:384019118
 
