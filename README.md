@@ -1,7 +1,7 @@
 - I’m @guoang
 - 技术栈 Vue Ts React React Native java node.js
 ## 联系方式
-- QQ:384019118
+- WX:  Lcc427428
 
 <!---
 guoang6/guoang6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
